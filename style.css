@@ -1,0 +1,89 @@
+body {
+    background-image: url('wall3.jpg');
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+
+
+.logo-bar {
+    background-color: #fff;
+    color: #fff;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    top: 44px;
+    padding: 10px;
+}
+
+.icon {
+    margin-right: 8px;
+    size: 3px;
+
+}
+.logo1{
+    width: Hug (100px);
+    height: Hug (40px);
+    padding: 10px, 12px, 10px, 12px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: large;
+    font-weight: bolder;
+    color: rgb(52, 52, 230);
+    padding-left: 30px;
+
+}
+
+.menue-bar{
+ display: flex;
+ align-items: center;
+ color: blue;
+ margin-right: 25px;
+ width: Hug (40px);
+ height: Hug (40px);
+}
+
+
+/* Second Part - Background Image with Content */
+        .header-section {
+           
+            color: #070707;
+            padding: 50px;
+        }
+
+        .header-section h1 {
+            font-family:Verdana, Geneva, Tahoma, sans-serif;
+            width: 700;
+            size: 40px;            
+            line-height: 52px;  
+            margin-left: 10px;          
+        }
+
+        .header-section p {
+            width: 400;
+            font-size: 16px;
+            margin: 10px 0;
+            line-height: 24px;
+        }
+
+        .left-link {
+          display: inline-block;
+         color: #650af8;
+        }
+
+        .icon-link {
+            display: inline-block;
+            margin-right: 10px;
+            color: #fff;
+            text-decoration: none;
+            font-size: 18px;
+        }
+
+        .right-icons{
+            display: flex;
+            width: 110px;
+            justify-content: space-between;
+            margin-top: 10px;
+            color: rgb(41, 32, 32);
+        }
+
